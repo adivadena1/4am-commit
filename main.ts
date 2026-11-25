@@ -7,7 +7,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const LINE =
-  "fix: at 4am the bug is gone; the code now does exactly what I was told, and I am now just the typist.";
+  "fix: at 4am I rewrote the function that wrote the bug. the rewrite already has a bug. I have until 5am.";
 
 // Sealed gate (competition rules): /output/entry.txt must be UTF-8 text of
 // 1 to 200 characters, one line, not only white space. Fail hard if the
